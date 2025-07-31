@@ -26,6 +26,7 @@ chaos-to-clarity/
 ├── README.md # Project documentation
 └── .gitignore # Standard ignore file
 ```
+```bash
 🧼 Features
 ✅ Simulates messy, real-world data
 ✅ Cleans and structures data into standard CSV format
@@ -53,7 +54,7 @@ collections.Counter (built-in)
  File upload support via FastAPI
  Configurable cleaning rules
  AI-based column labeling
-
+```
 👨‍💻 Author
 Sumith Vaspula
 🔗 GitHub
