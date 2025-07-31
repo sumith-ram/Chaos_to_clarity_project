@@ -32,15 +32,16 @@ chaos-to-clarity/
 ✅ Cleans and structures data into standard CSV format
 ✅ Simple and modular codebase using Pandas
 ✅ Outputs ready-to-use .csv files for ML/analytics
-
+```
 🛠 Tech Stack
-Tool/Library	Purpose
-Python 3.10+	Core programming language
-Pandas	Data manipulation & CSV I/O
-NumPy	Numerical operations & arrays
-scikit-learn	Optional preprocessing support
-Jupyter	Interactive development & notebooks
-Standard Libs	random, collections.Counter, etc.
+
+Python 3.10+ – Core programming language for all logic and scripting
+Pandas – Used for data manipulation, cleaning, and CSV input/output
+NumPy – Supports numerical operations and array handling
+scikit-learn – Used optionally for data preprocessing or scaling
+Jupyter Notebook – For interactive data cleaning and exploration
+Standard Libraries – Includes random, collections.Counter, and other built-in Python modules
+
 
 📦 Dependencies
 pandas
@@ -48,7 +49,7 @@ numpy
 scikit-learn
 random (built-in)
 collections.Counter (built-in)
-
+```bash
 🔭 Future Enhancements
  Command-line interface (CLI)
  File upload support via FastAPI
