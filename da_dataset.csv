@@ -1,0 +1,101 @@
+Name,Age,Height_cm,Weight_kg,Email,JoinDate
+Gina,29,168,58,gina@email.com,2023-08-20
+frank,forty,172,sixty five,frank@mail.com,2023-07-15
+bob,thirty,170,65,bob[at]email.com,2023/02/20
+henry,,174,62,henry@mail,2023-09-25
+Isaac,40,one seventy,66,isaac@mail.com,2023-10-10
+,45,,68,eva@example,
+bob,thirty,170,N/A,bob[at]email.com,2023/02/20
+frank,forty,172,sixty five,frank@mail.com,2023-07-15
+CHARLIE,35,180,,charlie.email.com,"March 15, 2023"
+Eva,50,160,60,,2023-06-30
+Alice,25,165,55,alice@example.com,2023-01-10
+Gina,29,168,58,gina@email.com,2023-08-20
+frank,forty,172,sixty five,frank@mail.com,2023-07-15
+frank,forty,172,sixty five,frank@mail.com,2023-07-15
+Alice,25,165,55,alice@example.com,2023-01-10
+Alice,25,165,55,alice@example.com,2023-01-10
+frank,forty,172,sixty five,frank@mail.com,2023-07-15
+henry,,174,62,henry@mail,2023-09-25
+David,,175,70,david@mail.com,2023-04-01
+David,,175,70,david@mail.com,2023-04-01
+bob,thirty,170,65,bob[at]email.com,2023/02/20
+CHARLIE,35,180,,charlie.email.com,"March 15, 2023"
+henry,,174,62,henry@mail,2023-09-25
+CHARLIE,35,180,,charlie.email.com,"March 15, 2023"
+bob,thirty,170,65,bob[at]email.com,2023/02/20
+David,,175,70,david@mail.com,2023-04-01
+frank,forty,172,sixty five,frank@mail.com,2023-07-15
+gina,29,168,58,gina@email.com,2023-08-20
+Isaac,40,one seventy,66,isaac@mail.com,2023-10-10
+bob,thirty,170,65,bob[at]email.com,2023/02/20
+henry,unknown,174,62,henry@mail,2023-09-25
+CHARLIE,35,180,,charlie.email.com,"March 15, 2023"
+bob,thirty,170,65,bob[at]email.com,2023/02/20
+Alice,25,165,55,alice@example.com,2023-01-10
+David,,175,70,david@mail.com,2023-04-01
+,45,,68,eva@example,
+Gina,29,168,N/A,gina@email.com,2023-08-20
+henry,,174,62,henry@mail,2023-09-25
+CHARLIE,35,180,,charlie.email.com,"March 15, 2023"
+henry,,174,62,henry@mail,2023-09-25
+isaac,40,one seventy,66,isaac@mail.com,2023-10-10
+bob,thirty,170,65,bob[at]email.com,2023/02/20
+Eva,50,160,60,,2023-06-30
+CHARLIE,35,180,,charlie.email.com,"March 15, 2023"
+David,,175,70,david@mail.com,2023-04-01
+henry,,174,62,henry@mail,2023-09-25
+frank,forty,172,sixty five,frank@mail.com,2023-07-15
+frank,forty,172,sixty five,frank@mail.com,2023-07-15
+Alice,25,165,55,alice@example.com,2023-01-10
+Eva,50,160,60,,2023-06-30
+,45,,68,eva@example,
+david,,175,70,david@mail.com,2023-04-01
+Eva,unknown,160,60,,2023-06-30
+CHARLIE,unknown,180,,charlie.email.com,"March 15, 2023"
+frank,forty,172,sixty five,frank@mail.com,2023-07-15
+frank,forty,172,sixty five,frank@mail.com,2023-07-15
+bob,thirty,170,65,bob[at]email.com,2023/02/20
+David,,175,70,david@mail.com,2023-04-01
+frank,forty,172,sixty five,frank@mail.com,2023-07-15
+henry,,174,62,henry@mail,2023-09-25
+henry,,174,62,henry@mail,2023-09-25
+bob,thirty,170,65,bob[at]email.com,2023/02/20
+frank,forty,172,sixty five,frank@mail.com,2023-07-15
+Isaac,40,one seventy,66,isaac@mail.com,2023-10-10
+Eva,unknown,160,60,,2023-06-30
+CHARLIE,35,180,,charlie.email.com,"March 15, 2023"
+bob,thirty,170,65,bob[at]email.com,unknown
+David,,175,70,david@mail.com,2023-04-01
+David,,175,70,david@mail.com,2023-04-01
+David,,175,70,david@mail.com,2023-04-01
+frank,forty,172,sixty five,frank@mail.com,2023-07-15
+David,,175,70,david@mail.com,2023-04-01
+Isaac,40,one seventy,66,isaac@mail.com,2023-10-10
+,45,,68,eva@example,unknown
+,unknown,,68,eva@example,
+David,,175,70,david@mail.com,2023-04-01
+David,,175,70,david@mail.com,2023-04-01
+Eva,50,160,60,,2023-06-30
+CHARLIE,35,180,,charlie.email.com,"March 15, 2023"
+eva,50,160,60,,2023-06-30
+isaac,40,one seventy,66,isaac@mail.com,2023-10-10
+Eva,50,160,60,,2023-06-30
+henry,,174,62,henry@mail,2023-09-25
+frank,forty,172,sixty five,frank@mail.com,2023-07-15
+CHARLIE,35,180,,charlie.email.com,"March 15, 2023"
+CHARLIE,35,180,,charlie.email.com,"March 15, 2023"
+bob,unknown,170,65,bob[at]email.com,2023/02/20
+eva,50,160,60,,2023-06-30
+,45,,68,eva@example,
+bob,thirty,170,65,bob[at]email.com,2023/02/20
+Gina,29,168,58,gina@email.com,2023-08-20
+,45,,N/A,eva@example,
+frank,forty,172,sixty five,frank@mail.com,2023-07-15
+,45,,68,eva@example,
+henry,,174,62,henry@mail,2023-09-25
+Eva,50,160,60,,2023-06-30
+,45,,68,eva@example,
+Eva,50,160,60,,unknown
+David,,175,70,david@mail.com,2023-04-01
+Eva,50,160,60,,2023-06-30
