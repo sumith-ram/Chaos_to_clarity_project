@@ -33,15 +33,15 @@ chaos-to-clarity/
 ✅ Simple and modular codebase using Pandas
 ✅ Outputs ready-to-use .csv files for ML/analytics
 ```
+```bash
 🛠 Tech Stack
-
 Python 3.10+ – Core programming language for all logic and scripting
 Pandas – Used for data manipulation, cleaning, and CSV input/output
 NumPy – Supports numerical operations and array handling
 scikit-learn – Used optionally for data preprocessing or scaling
 Jupyter Notebook – For interactive data cleaning and exploration
 Standard Libraries – Includes random, collections.Counter, and other built-in Python modules
-
+```
 
 📦 Dependencies
 pandas
