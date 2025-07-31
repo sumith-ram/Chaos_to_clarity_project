@@ -26,3 +26,38 @@ chaos-to-clarity/
 ├── README.md # Project documentation
 └── .gitignore # Standard ignore file
 ```
+🧼 Features
+✅ Simulates messy, real-world data
+✅ Cleans and structures data into standard CSV format
+✅ Simple and modular codebase using Pandas
+✅ Outputs ready-to-use .csv files for ML/analytics
+
+🛠 Tech Stack
+Tool/Library	Purpose
+Python 3.10+	Core programming language
+Pandas	Data manipulation & CSV I/O
+NumPy	Numerical operations & arrays
+scikit-learn	Optional preprocessing support
+Jupyter	Interactive development & notebooks
+Standard Libs	random, collections.Counter, etc.
+
+📦 Dependencies
+pandas
+numpy
+scikit-learn
+random (built-in)
+collections.Counter (built-in)
+
+🔭 Future Enhancements
+ Command-line interface (CLI)
+ File upload support via FastAPI
+ Configurable cleaning rules
+ AI-based column labeling
+
+👨‍💻 Author
+Sumith Vaspula
+🔗 GitHub
+
+📄 License
+This project is licensed under the MIT License.
+
